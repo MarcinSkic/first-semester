@@ -1,0 +1,2 @@
+waluta: 6, skup: 5.0, sprzedaz: 6.0
+waluta: df, skup: 34.0, sprzedaz: 6.0
